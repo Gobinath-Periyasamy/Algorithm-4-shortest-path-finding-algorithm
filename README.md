@@ -2,7 +2,7 @@
 Implementation of Bellman-Ford and Dijkstra's algorithm for shortest path finding algorithm.
 
 
-CS6140W - Advanced Data Structures and Algorithms - Programming Assignment 1 - Prim's and Kruskal Algorithm.
+CS6140W - Advanced Data Structures and Algorithms - Programming Assignment 1 - Shortest Path Finding Algorithm.
 
 Name : Gobinath Periyasamy
 
